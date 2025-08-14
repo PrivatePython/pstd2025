@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.map {
+  border-radius: 10px;
+  box-shadow: 0 5px 10px 2px rgba(0, 248, 26, 0.2);
+}
+.app-title{
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+}
